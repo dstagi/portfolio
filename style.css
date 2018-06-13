@@ -1,0 +1,45 @@
+.grey {
+    background: grey;
+    color: white;
+}
+
+.header {
+    background: darkmagenta;
+    height: 45px;
+    color: white;
+}
+
+.sgraphic {
+    padding: 2%;
+    width: 100%;
+}
+
+.sdescrip {
+    padding: 2%;
+    width: 100%;
+}
+
+.hero {
+    padding: 0;
+    width: 100%;
+}
+
+.red {
+    background: #FF1939;
+    height: 100px;
+  }
+
+  .yellow {
+    background: #FFEE19;
+    height: 100px;
+  }
+
+  .green {
+    background: #48CDD2;
+    height: 100px;
+  }
+
+  .pink {
+    background: pink;
+    height: 100px;
+  }
